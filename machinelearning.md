@@ -25,6 +25,7 @@
   * [Command Line Tools for Data Science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
   * [Small Datasets](https://github.com/dariusk/corpora)
   * [Learn SQL the Hard Way](http://sql.learncodethehardway.org/)
+
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
@@ -35,5 +36,6 @@
     * [R Cookbook](http://www.cookbook-r.com/)
     * [R Packages](http://r-pkgs.had.co.nz/)
     * [Things I Wish I Knew When Starting R](http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/)
+
 * Matlab
     * [Matlab Cookbook](http://wiki.stdout.org/matlabcookbook/)
