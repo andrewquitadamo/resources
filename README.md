@@ -12,3 +12,7 @@ A list of potential resources by subject.
 	* Data Science
 	* R
 	* Matlab
+* [Research](https://github.com/andrewquitadamo/resources/blob/master/research.md)
+	* Reproducible Research
+		* Makefiles
+	* Research Practices
