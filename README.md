@@ -16,3 +16,10 @@ A list of potential resources by subject.
 	* Reproducible Research
 		* Makefiles
 	* Research Practices
+* [Programming](https://github.com/andrewquitadamo/resources/blob/master/programming.md)
+	* Python
+	* Perl
+	* Testing
+	* Code Review
+	* Algorithms
+	* Parallel Processing
