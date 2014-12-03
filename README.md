@@ -24,3 +24,7 @@ A list of potential resources by subject.
 	* Coding Guidelines
 	* Algorithms
 	* Parallel Processing
+* [Tools](https://github.com/andrewquitadamo/resources/blob/master/tools.md)
+	* Vim
+	* Git and GitHub
+	* LaTex
