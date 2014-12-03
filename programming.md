@@ -22,6 +22,10 @@
   * [Fernando Perez Code Review](http://fperez.org/py4science/code_reviews.html)
   * [11 Best Practices](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf)
 
+* Coding Guidelines
+  * [Example of Good Code Guidelines](http://khmer.readthedocs.org/en/v1.0/development.html)
+  * [Good Coding Guidelines](http://pycogent.org/coding_guidelines.html)
+
 * Algorithms
   * [Learn Algorithms](http://www.learnalgorithms.in/)
   * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)

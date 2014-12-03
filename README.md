@@ -21,5 +21,6 @@ A list of potential resources by subject.
 	* Perl
 	* Testing
 	* Code Review
+	* Coding Guidelines
 	* Algorithms
 	* Parallel Processing
