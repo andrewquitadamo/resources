@@ -15,18 +15,22 @@
     * [Deep Learning with JS](http://cs.stanford.edu/people/karpathy/convnetjs/index.html)
     * [Intro to Deep Learning with Python and Theano](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
-* Data Science/Big Data
+* Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
   * [Mathematical Theory of Data Science](https://research.microsoft.com/en-US/people/kannan/book-no-solutions-aug-21-2014.pdf)
   * [Data Science Masters](http://datasciencemasters.org/)
   * [Python for Data Science](http://twiecki.github.io/blog/2014/11/18/python-for-data-science/)
   * [Common Excel Tasks using Pandas](http://pbpython.com/excel-pandas-comp.html)
+  * [q: Run querys on csv and tsv](https://github.com/harelba/q)
+  * [Command Line Tools for Data Science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
+  * [Small Datasets](https://github.com/dariusk/corpora)
+  * [Learn SQL the Hard Way](http://sql.learncodethehardway.org/)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
-    * [Command Line Tools for Data Science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
-    * [Small Datasets](https://github.com/dariusk/corpora)
-    * [Graphs from SQL](http://fnordmetric.io/examples/)
-    * [Learn SQL the Hard Way](http://sql.learncodethehardway.org/)
+  	* [Graphs from SQL](http://fnordmetric.io/examples/)
+	* [Charted.co](https://github.com/mikesall/charted)
+	* [D3.js](http://d3js.org/)
+
 * R
     * [R Cookbook](http://www.cookbook-r.com/)
     * [R Packages](http://r-pkgs.had.co.nz/)
