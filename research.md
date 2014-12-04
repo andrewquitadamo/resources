@@ -5,6 +5,8 @@
     * [Research Paper on Pull-Request Workflow](http://swerl.tudelft.nl/twiki/pub/Main/TechnicalReports/TUD-SERG-2014-013.pdf)
     * [10 Things every grad student should do](http://datapub.cdlib.org/2014/10/14/the-10-things-every-new-grad-student-should-do/)
     * [R package for Reproducible Workflows](http://www.biomedcentral.com/1471-2105/15/138)
+    * [Why Most Published Research Findings Are False](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0020124)
+    * [How To Make More Published Research True](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001747)
   * Makefiles  
     * [Make for Reproducibility](http://zmjones.com/make/)  
     * [Why use Make](http://bost.ocks.org/mike/make/)  
