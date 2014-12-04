@@ -5,6 +5,7 @@
     * [Social Media Mining](http://dmml.asu.edu/smm/book/)
     * [Introductory Primar to Machine Learning](http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer#.)
     * [Introductory to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
+    * [ISLR Course Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
     * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
   
 * Neural Nets/Deep Learning
@@ -30,6 +31,7 @@
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
 	* [Charted.co](https://github.com/mikesall/charted)
 	* [D3.js](http://d3js.org/)
+	* [MetricsGraphics.js](http://metricsgraphicsjs.org/)
 
 * R
     * [R Cookbook](http://www.cookbook-r.com/)
