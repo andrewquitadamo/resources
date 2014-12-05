@@ -13,6 +13,8 @@
   * [Collaboration on GitHub](https://help.github.com/articles/using-pull-requests)
   * [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
   * [GitHub Guides](https://guides.github.com/)
+  * [Git/GitHub Guide](http://kbroman.org/github_tutorial/)
+  * [Guide to using GitHub Pages](http://kbroman.org/simple_site/)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
