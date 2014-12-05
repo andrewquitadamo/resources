@@ -7,6 +7,9 @@
     * [R package for Reproducible Workflows](http://www.biomedcentral.com/1471-2105/15/138)
     * [Why Most Published Research Findings Are False](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0020124)
     * [How To Make More Published Research True](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001747)
+    * [Initial Steps Towards Reproducible Research](http://kbroman.org/steps2rr/)
+
+* Reproducible Research Tools
   * Makefiles  
     * [Make for Reproducibility](http://zmjones.com/make/)  
     * [Why use Make](http://bost.ocks.org/mike/make/)  
@@ -14,6 +17,7 @@
     * [Minimal Make, A Quick Tour](http://kbroman.org/minimal_make/)  
     * [Make for R and LaTeX](http://robjhyndman.com/hyndsight/makefiles/)
     * [Software Carpentry Make Lessons](http://software-carpentry.org/v4/make/index.html)
+  * [Knitr in a Knutshell](http://kbroman.org/knitr_knutshell/)
 
 * Research Practices
   * [The Researchers Bible](http://homepages.inf.ed.ac.uk/bundy/how-tos/resbible.html)
