@@ -32,6 +32,7 @@
 	* [Charted.co](https://github.com/mikesall/charted)
 	* [D3.js](http://d3js.org/)
 	* [MetricsGraphics.js](http://metricsgraphicsjs.org/)
+	* [CSV Fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 
 * R
     * [R Cookbook](http://www.cookbook-r.com/)
