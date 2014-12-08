@@ -14,12 +14,14 @@ A list of potential resources by subject.
 	* Matlab
 * [Research](https://github.com/andrewquitadamo/resources/blob/master/research.md)
 	* Reproducible Research
-		* Makefiles
+	* Reproducible Research Tools
+	  * Makefiles
 	* Research Practices
 * [Programming](https://github.com/andrewquitadamo/resources/blob/master/programming.md)
 	* Python
 	* Perl
 	* Testing
+	* Documentation
 	* Code Review
 	* Coding Guidelines
 	* Algorithms
