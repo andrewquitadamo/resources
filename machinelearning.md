@@ -40,6 +40,8 @@
     * [Things I Wish I Knew When Starting R](http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/)
     * [R for Programmers](http://www.johndcook.com/blog/r_language_for_programmers/)
     * [R Package Primer](http://kbroman.org/pkg_primer/)
+    * [db.r](https://github.com/yhat/db.r)
+    * [R for Cats](http://rforcats.net/)
 
 * Matlab
     * [Matlab Cookbook](http://wiki.stdout.org/matlabcookbook/)
