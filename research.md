@@ -18,6 +18,7 @@
     * [Make for R and LaTeX](http://robjhyndman.com/hyndsight/makefiles/)
     * [Software Carpentry Make Lessons](http://software-carpentry.org/v4/make/index.html)
   * [Knitr in a Knutshell](http://kbroman.org/knitr_knutshell/)
+  * [gistr](http://ropensci.org/tutorials/gistr_tutorial.html)
 
 * Research Practices
   * [The Researchers Bible](http://homepages.inf.ed.ac.uk/bundy/how-tos/resbible.html)
