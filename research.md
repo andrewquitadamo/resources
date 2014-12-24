@@ -19,9 +19,11 @@
     * [Software Carpentry Make Lessons](http://software-carpentry.org/v4/make/index.html)
   * [Knitr in a Knutshell](http://kbroman.org/knitr_knutshell/)
   * [gistr](http://ropensci.org/tutorials/gistr_tutorial.html)
+  * [Basic Directory Structure for Research Projects](https://github.com/Reproducible-Science-Curriculum/rr-init)
 
 * Research Practices
   * [The Researchers Bible](http://homepages.inf.ed.ac.uk/bundy/how-tos/resbible.html)
   * [How to do research at MIT AI Lab](https://people.cs.umass.edu/~emery/misc/how-to.pdf)
+  * [A Quick Guide to Organizing Computational Biology Projects](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424)
 
 
