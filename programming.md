@@ -10,6 +10,8 @@
   * [Higher Order Perl](http://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf)
 
 * Testing
+  * General
+    * [Improve Test Coverage](http://blog.fogcreek.com/taming-a-wild-testless-code-beast-4-steps-to-improving-test-coverage/)
   * Python
     * [Getting Started with Automatic Testing](http://www.reddit.com/r/Python/comments/1drv59/getting_started_with_automated_testing/)  
     * [Getting Started Testing](http://pyvideo.org/video/2674/getting-started-testing)
