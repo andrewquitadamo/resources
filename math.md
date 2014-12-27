@@ -2,6 +2,7 @@
   * [First Course in Linear Algebra](http://linear.ups.edu/html/fcla.html)
   * [Linear Algebra in Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
   * [MIT OCW Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+  * [Linear Algebra for Machine Learning](http://machinelearningmastery.com/linear-algebra-machine-learning/)
 
 * Statistics
   * [Probability Cheat Sheet](http://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need?srid=he8P&share=1)
