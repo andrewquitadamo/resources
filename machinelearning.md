@@ -7,6 +7,7 @@
     * [Introductory to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
     * [ISLR Course Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
     * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+    * [CMU Convex Optimization Course](http://www.stat.cmu.edu/~ryantibs/convexopt/#videos)
   
 * Neural Nets/Deep Learning
     * [Deep Learning Book](http://neuralnetworksanddeeplearning.com/index.html)
