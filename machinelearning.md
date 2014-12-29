@@ -45,5 +45,8 @@
     * [db.r](https://github.com/yhat/db.r)
     * [R for Cats](http://rforcats.net/)
 
+* Julia
+    * [Julia By Example](http://www.scolvin.com/juliabyexample/)
+
 * Matlab
     * [Matlab Cookbook](http://wiki.stdout.org/matlabcookbook/)
