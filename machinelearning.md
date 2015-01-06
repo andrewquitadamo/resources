@@ -8,6 +8,7 @@
     * [ISLR Course Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
     * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
     * [CMU Convex Optimization Course](http://www.stat.cmu.edu/~ryantibs/convexopt/#videos)
+    * [Machine Learning Resources](http://www.startup.ml/resources)
   
 * Neural Nets/Deep Learning
     * [Deep Learning Book](http://neuralnetworksanddeeplearning.com/index.html)
@@ -16,6 +17,7 @@
     * [Deep Learning Book](http://www.iro.umontreal.ca/~bengioy/dlbook/)
     * [Deep Learning with JS](http://cs.stanford.edu/people/karpathy/convnetjs/index.html)
     * [Intro to Deep Learning with Python and Theano](https://www.youtube.com/watch?v=S75EdAcXHKk)
+    * [Deep Learning Reading List](http://jmozah.github.io/links/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
