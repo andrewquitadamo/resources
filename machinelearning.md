@@ -33,6 +33,7 @@
   * [Command Line Tools for Data Science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html)
   * [Small Datasets](https://github.com/dariusk/corpora)
   * [Learn SQL the Hard Way](http://sql.learncodethehardway.org/)
+  * [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
