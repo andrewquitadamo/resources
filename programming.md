@@ -35,6 +35,7 @@
   * [Learn Algorithms](http://www.learnalgorithms.in/)
   * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
   * [MIT OCW Intro to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
+  * [Open Data Structures](http://opendatastructures.org/)
 
 * Parallel Processing
   * [Parallel Processing in multiple languages](http://blog.dominoup.com/simple-parallelization/)
