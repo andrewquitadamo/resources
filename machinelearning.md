@@ -18,6 +18,7 @@
     * [Deep Learning with JS](http://cs.stanford.edu/people/karpathy/convnetjs/index.html)
     * [Intro to Deep Learning with Python and Theano](https://www.youtube.com/watch?v=S75EdAcXHKk)
     * [Deep Learning Reading List](http://jmozah.github.io/links/)
+    * [Deep Learning Tutorial](http://deeplearning.net/tutorial/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
