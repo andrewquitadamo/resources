@@ -37,6 +37,7 @@
   * [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience)
   * [Interactive Data Science Lessons in Python](https://dataquest.io/)
   * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+  * [Data Science Tutorial in Python](http://blog.yhathq.com/posts/data-science-in-python-tutorial.html)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
