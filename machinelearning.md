@@ -34,6 +34,7 @@
   * [Small Datasets](https://github.com/dariusk/corpora)
   * [Learn SQL the Hard Way](http://sql.learncodethehardway.org/)
   * [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience)
+  * [Interactive Data Science Lessons in Python](https://dataquest.io/)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
