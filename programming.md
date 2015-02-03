@@ -39,5 +39,8 @@
   * [MIT OCW Intro to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
   * [Open Data Structures](http://opendatastructures.org/)
 
+* Computer Science
+  * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+
 * Parallel Processing
   * [Parallel Processing in multiple languages](http://blog.dominoup.com/simple-parallelization/)
