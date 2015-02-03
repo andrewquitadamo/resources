@@ -21,6 +21,7 @@
     * [Deep Learning Tutorial](http://deeplearning.net/tutorial/)
     * [Deep Learning in a Nutshell](http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/)
     * [Deep Dive into Recurrent Neural Networks](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+    * [Stanford Deep Learning and Machine Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
