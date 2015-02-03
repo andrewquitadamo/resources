@@ -36,6 +36,7 @@
   * [Learn SQL the Hard Way](http://sql.learncodethehardway.org/)
   * [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience)
   * [Interactive Data Science Lessons in Python](https://dataquest.io/)
+  * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
