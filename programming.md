@@ -44,3 +44,6 @@
 
 * Parallel Processing
   * [Parallel Processing in multiple languages](http://blog.dominoup.com/simple-parallelization/)
+
+* Command Line
+  * [Bash Productivity](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/)
