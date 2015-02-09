@@ -9,6 +9,7 @@
     * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
     * [CMU Convex Optimization Course](http://www.stat.cmu.edu/~ryantibs/convexopt/#videos)
     * [Machine Learning Resources](http://www.startup.ml/resources)
+    * [Docker Containers of ML Tools](https://github.com/StartupML/jetpack)
   
 * Neural Nets/Deep Learning
     * [Deep Learning Book](http://neuralnetworksanddeeplearning.com/index.html)
