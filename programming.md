@@ -47,3 +47,6 @@
 
 * Command Line
   * [Bash Productivity](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/)
+
+* General
+  * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
