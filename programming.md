@@ -4,6 +4,7 @@
   * [Python Argparse Cookbook](http://mkaz.com/2014/07/26/python-argparse-cookbook/)
   * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
   * [Python Tips and Tricks](https://www.airpair.com/python/posts/python-tips-and-traps)
+  * [Underscores in Python](http://shahriar.svbtle.com/underscores-in-python)
 
 * Perl
   * [Data Munging with Perl](http://perlhacks.com/dmp.pdf)
