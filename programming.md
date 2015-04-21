@@ -51,3 +51,4 @@
 
 * General
   * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
+  * [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
