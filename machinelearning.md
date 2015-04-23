@@ -41,6 +41,7 @@
   * [Data Science Tutorial in Python](http://blog.yhathq.com/posts/data-science-in-python-tutorial.html)
   * [Full Stack Data Science](https://github.com/jackgolding/FullStackDataAnalysis)
   * [Chris Albon's Code Snippets](http://chrisalbon.com/)
+  * [Data Science Resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
