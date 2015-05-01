@@ -15,6 +15,7 @@
   * [GitHub Guides](https://guides.github.com/)
   * [Git/GitHub Guide](http://kbroman.org/github_tutorial/)
   * [Guide to using GitHub Pages](http://kbroman.org/simple_site/)
+  * [Git Style Guide](https://github.com/agis-/git-style-guide)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
