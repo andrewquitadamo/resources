@@ -16,6 +16,7 @@
   * [Git/GitHub Guide](http://kbroman.org/github_tutorial/)
   * [Guide to using GitHub Pages](http://kbroman.org/simple_site/)
   * [Git Style Guide](https://github.com/agis-/git-style-guide)
+  * [GitHub Issue Tagging Workflow](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
