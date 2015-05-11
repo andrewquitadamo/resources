@@ -29,6 +29,7 @@
   * [Fernando Perez Code Review](http://fperez.org/py4science/code_reviews.html)
   * [11 Best Practices](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf)
   * [Code Review Checklist](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
+  * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 * Coding Guidelines
   * [Example of Good Code Guidelines](http://khmer.readthedocs.org/en/v1.0/development.html)
