@@ -61,6 +61,7 @@
     * [db.r](https://github.com/yhat/db.r)
     * [R for Cats](http://rforcats.net/)
     * [Optimizing R for Biologists](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004140)
+    * [Advanced R](http://adv-r.had.co.nz/)
 
 * Julia
     * [Julia By Example](http://www.scolvin.com/juliabyexample/)
