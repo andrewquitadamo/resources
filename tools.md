@@ -27,3 +27,6 @@
   * [WriteLaTex Introductino to LaTex](https://www.writelatex.com/blog/7-free-online-introduction-to-latex-course-part-1#.VH5Y_jCJOuY)
   * [Learn LaTex by Doing](http://www.science.uva.nl/onderwijs/lesmateriaal/latex/latexcourse.pdf)
   * [Tex Introduction](http://www.math.uiuc.edu/~hildebr/tex/texintro.pdf)
+
+* Emacs
+  * [Absolute Beginners Guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
