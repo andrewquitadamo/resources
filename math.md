@@ -12,6 +12,8 @@
   * [Statistical Inference for Everyone](https://dl.dropboxusercontent.com/u/1813623/Statistical%20Inference%20for%20Everyone.pdf)
   * [Probabalistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
   * [Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/index.html)
+  * [Think Stats Site](http://greenteapress.com/thinkstats/)
+  * [Think Stats Book](http://greenteapress.com/thinkstats/thinkstats.pdf)
 
 * Discrete Math
   * [Notes on Discrete Math](http://www.math.northwestern.edu/~mlerma/papers/discrete_mathematics-2005.pdf)
