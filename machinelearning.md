@@ -11,6 +11,7 @@
     * [Machine Learning Resources](http://www.startup.ml/resources)
     * [Docker Containers of ML Tools](https://github.com/StartupML/jetpack)
     * [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+    * [Model Based Machine Learning (Early Access)](http://www.mbmlbook.com/toc.html)
   
 * Neural Nets/Deep Learning
     * [Deep Learning Book](http://neuralnetworksanddeeplearning.com/index.html)
