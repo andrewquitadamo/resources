@@ -31,6 +31,7 @@
   * [11 Best Practices](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf)
   * [Code Review Checklist](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
   * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
+  * [How's and Why's of Code Review](http://mikhail.io/2015/05/peer-code-review-whys-hows-and-whats/)
 
 * Coding Guidelines
   * [Example of Good Code Guidelines](http://khmer.readthedocs.org/en/v1.0/development.html)
