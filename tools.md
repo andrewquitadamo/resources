@@ -3,6 +3,7 @@
   * [Learn to Speak Vim](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)
   * [Series of Articles on Learning Vim](http://benmccormick.org/tag/learning-vim-in-2014/)
   * [Intermediate Vim Tips](http://ideasintosoftware.com/vim-productivity-tips/)
+  * [How to Boost Your Vim Productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
   
 * Git/GitHub
   * [A Practical Introduction to Git](http://mrchlblng.me/2014/09/practical-git-introduction/)
