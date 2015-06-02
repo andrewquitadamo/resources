@@ -18,6 +18,7 @@
   * Python
     * [Getting Started with Automatic Testing](http://www.reddit.com/r/Python/comments/1drv59/getting_started_with_automated_testing/)  
     * [Getting Started Testing](http://pyvideo.org/video/2674/getting-started-testing)
+    * [Four Tools for Testing Python Code](http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/)
   * Perl
     * [Unit Testing in Perl](http://jmdeldin.com/bioinf/testing/index.html)
 
