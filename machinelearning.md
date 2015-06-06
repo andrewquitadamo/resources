@@ -27,6 +27,8 @@
     * [Stanford Deep Learning and Machine Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
     * [Perceptron in Python](https://blog.dbrgn.ch/2013/3/26/perceptrons-in-python/)
     * [Deep Learning Review by Lecun, Bengio and Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+    * [Install Theano on AWS](http://markus.com/install-theano-on-aws/)
+    * [Starting Deep Learning with Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
