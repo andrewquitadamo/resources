@@ -31,3 +31,6 @@
 
 * Emacs
   * [Absolute Beginners Guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
+
+* SSH
+  * [SSH Tips](http://felixmilea.com/2015/06/simple-tips-for-making-the-most-out-of-ssh/)
