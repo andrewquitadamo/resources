@@ -29,6 +29,7 @@
     * [Deep Learning Review by Lecun, Bengio and Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
     * [Install Theano on AWS](http://markus.com/install-theano-on-aws/)
     * [Starting Deep Learning with Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
+    * [Neural Network Implementation in Python](http://peterroelants.github.io/posts/neural_network_implementation_part01/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
