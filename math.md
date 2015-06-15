@@ -14,6 +14,7 @@
   * [Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/index.html)
   * [Think Stats Site](http://greenteapress.com/thinkstats/)
   * [Think Stats Book](http://greenteapress.com/thinkstats/thinkstats.pdf)
+  * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
 
 * Discrete Math
   * [Notes on Discrete Math](http://www.math.northwestern.edu/~mlerma/papers/discrete_mathematics-2005.pdf)
