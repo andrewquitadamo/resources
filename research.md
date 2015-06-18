@@ -9,6 +9,7 @@
     * [How To Make More Published Research True](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001747)
     * [Initial Steps Towards Reproducible Research](http://kbroman.org/steps2rr/)
     * [Reproducible Research using Make, RMarkdown and pandoc](http://sjackman.github.io/open-science/#/open-reproducible-science)
+    * [Communicating Experimental Results with R](http://rikturr.com/blog/communicating-experimental-results-with-r/)
 
 * Reproducible Research Tools
   * Makefiles  
