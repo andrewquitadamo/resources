@@ -19,6 +19,7 @@
     * [Minimal Make, A Quick Tour](http://kbroman.org/minimal_make/)  
     * [Make for R and LaTeX](http://robjhyndman.com/hyndsight/makefiles/)
     * [Software Carpentry Make Lessons](http://software-carpentry.org/v4/make/index.html)
+    * [New Software Carpentry Make Lesson](http://swcarpentry.github.io/make-novice/)
   * [Knitr in a Knutshell](http://kbroman.org/knitr_knutshell/)
   * [gistr](http://ropensci.org/tutorials/gistr_tutorial.html)
   * [Basic Directory Structure for Research Projects](https://github.com/Reproducible-Science-Curriculum/rr-init)
