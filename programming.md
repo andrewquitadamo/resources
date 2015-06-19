@@ -33,6 +33,7 @@
   * [Code Review Checklist](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
   * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
   * [How's and Why's of Code Review](http://mikhail.io/2015/05/peer-code-review-whys-hows-and-whats/)
+  * [6 Ways to Formalize code Reviews](http://blog.codacy.com/2015/06/18/6-ways-to-formalize-and-enforce-code-reviews/)
 
 * Coding Guidelines
   * [Example of Good Code Guidelines](http://khmer.readthedocs.org/en/v1.0/development.html)
