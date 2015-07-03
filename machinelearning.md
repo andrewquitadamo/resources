@@ -51,6 +51,7 @@
   * [Full Stack Data Science](https://github.com/jackgolding/FullStackDataAnalysis)
   * [Chris Albon's Code Snippets](http://chrisalbon.com/)
   * [Data Science Resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
+  * [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
