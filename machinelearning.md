@@ -32,6 +32,8 @@
     * [Starting Deep Learning with Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
     * [Neural Network Implementation in Python](http://peterroelants.github.io/posts/neural_network_implementation_part01/)
     * [Deep Learning Videos](http://www.computervisiontalks.com/tag/deep-learning-course/)
+    * [Neural Network in 11 Lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+    * [Step by Step Backpropogation Guide](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
