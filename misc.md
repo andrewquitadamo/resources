@@ -1,1 +1,1 @@
-*[Interesting IPython Notebooks](http://nb.bianp.net/sort/views/)
+* [Interesting IPython Notebooks](http://nb.bianp.net/sort/views/)
