@@ -6,6 +6,7 @@
   * [Python Tips and Tricks](https://www.airpair.com/python/posts/python-tips-and-traps)
   * [Underscores in Python](http://shahriar.svbtle.com/underscores-in-python)
   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  * [Conda Cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
 
 * Perl
   * [Data Munging with Perl](http://perlhacks.com/dmp.pdf)
