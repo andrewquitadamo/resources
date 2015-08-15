@@ -4,6 +4,7 @@
   * [MIT OCW Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
   * [Linear Algebra for Machine Learning](http://machinelearningmastery.com/linear-algebra-machine-learning/)
   * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/)
+  * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 
 * Statistics
   * [Probability Cheat Sheet](http://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need?srid=he8P&share=1)
