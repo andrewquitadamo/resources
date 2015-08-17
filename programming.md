@@ -55,6 +55,7 @@
 * Command Line
   * [Bash Productivity](https://developer.atlassian.com/blog/2015/02/ten-tips-for-wonderful-bash-productivity/)
   * [GNU Coreutils Cheat Sheet](http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf)
+  * [Bash Pitfalls](http://bash.cumulonim.biz/BashPitfalls.html)
 
 * General
   * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
