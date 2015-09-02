@@ -5,6 +5,7 @@
   * [Linear Algebra for Machine Learning](http://machinelearningmastery.com/linear-algebra-machine-learning/)
   * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/)
   * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+  * [What Matrices Actually Are](https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/)
 
 * Statistics
   * [Probability Cheat Sheet](http://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need?srid=he8P&share=1)
