@@ -8,7 +8,7 @@
   * [What Matrices Actually Are](https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/)
 
 * Statistics
-  * [Probability Cheat Sheet](http://datastories.quora.com/The-Only-Probability-Cheatsheet-Youll-Ever-Need?srid=he8P&share=1)
+  * [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
   * [Steins Paradox](http://statweb.stanford.edu/~ckirby/brad/other/Article1977.pdf)
   * [Warning Signs in Experimental Design](http://norvig.com/experiment-design.html)
   * [Causal Inference Book](http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
