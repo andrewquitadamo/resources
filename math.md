@@ -6,6 +6,7 @@
   * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/)
   * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
   * [What Matrices Actually Are](https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/)
+  * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
 * Statistics
   * [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
