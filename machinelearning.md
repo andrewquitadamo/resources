@@ -36,6 +36,7 @@
     * [Neural Network in 11 Lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
     * [Step by Step Backpropogation Guide](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
     * [Implement A Neural Net from Scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+    * [Deep Learning Summer School 2015 Videos](http://videolectures.net/deeplearning2015_montreal/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
