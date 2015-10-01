@@ -60,6 +60,7 @@
   * [Data Science Resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
   * [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * [Data Science Books](http://www.wzchen.com/data-science-books/)
+  * [Adding a GUI to Pandas](http://pbpython.com/pandas-gui.html)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
