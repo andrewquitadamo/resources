@@ -68,6 +68,7 @@
 	* [D3.js](http://d3js.org/)
 	* [MetricsGraphics.js](http://metricsgraphicsjs.org/)
 	* [CSV Fingerprint](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
+	* [Network Visualization in R](http://kateto.net/network-visualization)
 
 * R
     * [R Cookbook](http://www.cookbook-r.com/)
