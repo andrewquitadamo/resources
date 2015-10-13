@@ -39,6 +39,7 @@
     * [Deep Learning Summer School 2015 Videos](http://videolectures.net/deeplearning2015_montreal/)
     * [Understanding LTSMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     * Intro to RNNs [Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [Part 2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) [Part 3](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
+    * Training Deep Neural Nets [Part 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
