@@ -42,6 +42,7 @@
     * Training Deep Neural Nets [Part 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
     * [CNNs and Feature Extraction in Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
     * [Deep Learning and Neural Networks: An Overview](http://arxiv.org/abs/1404.7828)
+    * [Neural Nets-A Brief Intro and Intuition](http://josephrocca.com/blog/neural-networks-a-brief-introduction-and-intuition/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
