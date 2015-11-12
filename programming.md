@@ -8,6 +8,7 @@
   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   * [Conda Cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
   * [Intermediate Python](http://book.pythontips.com/en/latest/)
+  * [Best of the Best Guide](https://gist.github.com/sloria/7001839)
 
 * Perl
   * [Data Munging with Perl](http://perlhacks.com/dmp.pdf)
