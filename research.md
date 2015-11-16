@@ -30,5 +30,6 @@
   * [The Researchers Bible](http://homepages.inf.ed.ac.uk/bundy/how-tos/resbible.html)
   * [How to do research at MIT AI Lab](https://people.cs.umass.edu/~emery/misc/how-to.pdf)
   * [A Quick Guide to Organizing Computational Biology Projects](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424)
+  * [Good Enough Practices in Scientific Computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md)
 
 
