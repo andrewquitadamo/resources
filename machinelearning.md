@@ -86,6 +86,7 @@
     * [Advanced R](http://adv-r.had.co.nz/)
     * [Testing R Code](http://r-pkgs.had.co.nz/tests.html)
     * [Rparallel Guide](http://wrathematics.github.io/RparallelGuide/)
+    * [Good Practices for R Packages](http://romantsegelskyi.github.io/pi-blog/2015/11/16/good-practices-r-package/)
 
 * Julia
     * [Julia By Example](http://www.scolvin.com/juliabyexample/)
