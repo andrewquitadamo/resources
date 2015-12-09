@@ -9,6 +9,7 @@
   * [Conda Cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
   * [Intermediate Python](http://book.pythontips.com/en/latest/)
   * [Best of the Best Guide](https://gist.github.com/sloria/7001839)
+  * [Bioinformatics with Python Cookbook Notebooks](https://github.com/tiagoantao/bioinf-python)
 
 * Perl
   * [Data Munging with Perl](http://perlhacks.com/dmp.pdf)
