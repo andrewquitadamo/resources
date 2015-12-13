@@ -22,6 +22,7 @@
   * [Think Stats Site](http://greenteapress.com/thinkstats/)
   * [Think Stats Book](http://greenteapress.com/thinkstats/thinkstats.pdf)
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
+  * [Common Probability Distributions The Data Scientists Crib Sheet](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 * Discrete Math
   * [Notes on Discrete Math](http://www.math.northwestern.edu/~mlerma/papers/discrete_mathematics-2005.pdf)
