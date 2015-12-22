@@ -10,6 +10,7 @@
   * [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   * [Git Cheat Sheet](http://overapi.com/git/)
   * [Git Cheat Sheet from GitHub](https://github.com/github/training-materials/blob/master/downloads/github-git-cheat-sheet.pdf?raw=true)
+  * [Yet Another Git Cheat Sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
   * [Pro Git](http://git-scm.com/book)
   * [Software Carpentry Git & GitHub Lesson](http://software-carpentry.org/v5/novice/git/index.html)
   * [Collaboration on GitHub](https://help.github.com/articles/using-pull-requests)
