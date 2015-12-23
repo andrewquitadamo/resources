@@ -10,6 +10,7 @@
   * [Intermediate Python](http://book.pythontips.com/en/latest/)
   * [Best of the Best Guide](https://gist.github.com/sloria/7001839)
   * [Bioinformatics with Python Cookbook Notebooks](https://github.com/tiagoantao/bioinf-python)
+  * [Python Learning Resources](https://www.getdatajoy.com/blog/2015/11/26/python-teaching-resources.html)
 
 * Perl
   * [Data Munging with Perl](http://perlhacks.com/dmp.pdf)
