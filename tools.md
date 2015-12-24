@@ -22,6 +22,7 @@
   * [GitHub Issue Tagging Workflow](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
   * [Git Commit Messages](http://chris.beams.io/posts/git-commit/)
   * [19 Git Tips for Everyday Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+  * [How Do I Into Git?](https://gist.github.com/mplewis/a7563c7cb589048a071b)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
