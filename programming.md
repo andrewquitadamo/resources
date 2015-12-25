@@ -61,6 +61,7 @@
   * [GNU Coreutils Cheat Sheet](http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf)
   * [Bash Pitfalls](http://bash.cumulonim.biz/BashPitfalls.html)
   * [Unix Tools and Scripting Course](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
+  * [Bash Academy](http://www.bash.academy)
 
 * General
   * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
