@@ -65,6 +65,7 @@
   * [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * [Data Science Books](http://www.wzchen.com/data-science-books/)
   * [Adding a GUI to Pandas](http://pbpython.com/pandas-gui.html)
+  * [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
   * Data Visualization
     * [Data Visualization with JS](http://jsdatav.is/intro.html)
   	* [Graphs from SQL](http://fnordmetric.io/examples/)
