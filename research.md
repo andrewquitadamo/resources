@@ -31,5 +31,6 @@
   * [How to do research at MIT AI Lab](https://people.cs.umass.edu/~emery/misc/how-to.pdf)
   * [A Quick Guide to Organizing Computational Biology Projects](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424)
   * [Good Enough Practices in Scientific Computing](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing/blob/gh-pages/index.md)
+  * [Show Me Don't Trust Me](http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/)
 
 
