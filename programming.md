@@ -11,6 +11,7 @@
   * [Best of the Best Guide](https://gist.github.com/sloria/7001839)
   * [Bioinformatics with Python Cookbook Notebooks](https://github.com/tiagoantao/bioinf-python)
   * [Python Learning Resources](https://www.getdatajoy.com/blog/2015/11/26/python-teaching-resources.html)
+  * [Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 
 * Perl
   * [Data Munging with Perl](http://perlhacks.com/dmp.pdf)
