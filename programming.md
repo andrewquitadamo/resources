@@ -64,6 +64,7 @@
   * [Bash Pitfalls](http://bash.cumulonim.biz/BashPitfalls.html)
   * [Unix Tools and Scripting Course](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
   * [Bash Academy](http://www.bash.academy)
+  * [Bash Handbook](https://github.com/denysdovhan/bash-handbook)
 
 * General
   * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
