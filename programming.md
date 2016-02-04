@@ -65,6 +65,7 @@
   * [Unix Tools and Scripting Course](http://www.cs.cornell.edu/courses/CS2043/2014sp/)
   * [Bash Academy](http://www.bash.academy)
   * [Bash Handbook](https://github.com/denysdovhan/bash-handbook)
+  * [Learn Enough Command Line to be Dangerous](http://www.learnenough.com/command-line-tutorial)
 
 * General
   * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
