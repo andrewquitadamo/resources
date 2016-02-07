@@ -5,6 +5,7 @@
   * [Intermediate Vim Tips](http://ideasintosoftware.com/vim-productivity-tips/)
   * [How to Boost Your Vim Productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
   * [Everything You Need To Know About Vim](https://github.com/mhinz/vim-galore)
+  * Ten Unsorted Vi/Vim Tricks: [Volume 1](http://blog.terminal.com/vi-tips-and-tricks/) [Volume 2](https://blog.terminal.com/ten-unsorted-vi-vim-tricks-volume-2/)
   
 * Git/GitHub
   * [A Practical Introduction to Git](http://mrchlblng.me/2014/09/practical-git-introduction/)
