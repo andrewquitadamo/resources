@@ -21,6 +21,7 @@
 * Testing
   * General
     * [Improve Test Coverage](http://blog.fogcreek.com/taming-a-wild-testless-code-beast-4-steps-to-improving-test-coverage/)
+    * [Write Tests](http://matthewrocklin.com/blog/work/2016/02/08/tests)
   * Python
     * [Getting Started with Automatic Testing](http://www.reddit.com/r/Python/comments/1drv59/getting_started_with_automated_testing/)  
     * [Getting Started Testing](http://pyvideo.org/video/2674/getting-started-testing)
