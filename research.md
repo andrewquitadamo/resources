@@ -22,6 +22,7 @@
     * [New Software Carpentry Make Lesson](http://swcarpentry.github.io/make-novice/)
     * [Makefile Tutorial](http://makefiletutorial.com/)
     * [Introduction to Make](http://www.ploxiln.net/make.html)
+    * [Reproducible Bioinformatics Pipelines in Make](https://bsmith89.github.io/make-bml/)
   * [Knitr in a Knutshell](http://kbroman.org/knitr_knutshell/)
   * [gistr](http://ropensci.org/tutorials/gistr_tutorial.html)
   * [Basic Directory Structure for Research Projects](https://github.com/Reproducible-Science-Curriculum/rr-init)
