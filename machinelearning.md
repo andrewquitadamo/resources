@@ -90,6 +90,7 @@
     * [Good Practices for R Packages](http://romantsegelskyi.github.io/pi-blog/2015/11/16/good-practices-r-package/)
     * [Hadley Wickam's R Style Guide](http://adv-r.had.co.nz/Style.html)
     * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+    * [R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
 
 * Julia
     * [Julia By Example](http://www.scolvin.com/juliabyexample/)
