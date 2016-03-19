@@ -7,6 +7,7 @@
   * [Everything You Need To Know About Vim](https://github.com/mhinz/vim-galore)
   * Ten Unsorted Vi/Vim Tricks: [Volume 1](http://blog.terminal.com/vi-tips-and-tricks/) [Volume 2](https://blog.terminal.com/ten-unsorted-vi-vim-tricks-volume-2/)
   * [Vim Cheatsheet](http://vim.rtorr.com/)
+  * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
   
 * Git/GitHub
   * [A Practical Introduction to Git](http://mrchlblng.me/2014/09/practical-git-introduction/)
