@@ -67,6 +67,7 @@
   * [Bash Academy](http://www.bash.academy)
   * [Bash Handbook](https://github.com/denysdovhan/bash-handbook)
   * [Learn Enough Command Line to be Dangerous](http://www.learnenough.com/command-line-tutorial)
+  * [Unofficial Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 * General
   * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
