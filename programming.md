@@ -68,6 +68,7 @@
   * [Bash Handbook](https://github.com/denysdovhan/bash-handbook)
   * [Learn Enough Command Line to be Dangerous](http://www.learnenough.com/command-line-tutorial)
   * [Unofficial Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+  * [Good Practices for Writing Shell Scripts](http://www.yoone.eu/articles/2-good-practices-for-writing-shell-scripts.html)
 
 * General
   * [Syntax Comparision](http://rigaux.org/language-study/syntax-across-languages/)
