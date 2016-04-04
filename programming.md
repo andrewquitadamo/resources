@@ -42,6 +42,7 @@
   * [How's and Why's of Code Review](http://mikhail.io/2015/05/peer-code-review-whys-hows-and-whats/)
   * [6 Ways to Formalize code Reviews](http://blog.codacy.com/2015/06/18/6-ways-to-formalize-and-enforce-code-reviews/)
   * [Code Reviews: Good Practices](https://medium.com/@gitcolony/code-reviews-good-practices-3d5aad5b4d53#.mkw5lzf6d)
+  * [Effective Code Reviews](https://10kloc.wordpress.com/2016/04/03/effective-code-reviews/)
 
 * Coding Guidelines
   * [Example of Good Code Guidelines](http://khmer.readthedocs.org/en/v1.0/development.html)
