@@ -94,6 +94,7 @@
     * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
     * [R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
     * [Rbitrary Standards](https://ironholds.org/projects/rbitrary/)
+    * [R for Data Science](http://r4ds.had.co.nz/)
 
 * Julia
     * [Julia By Example](http://www.scolvin.com/juliabyexample/)
