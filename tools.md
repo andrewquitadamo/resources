@@ -29,6 +29,7 @@
   * [How Do I Into Git?](https://gist.github.com/mplewis/a7563c7cb589048a071b)
   * [12 Days of Git](http://vanwilson.info/2016/01/fixing-mistakes-with-git/)
   * [Learn Enough Git to be Dangerous](http://www.learnenough.com/git-tutorial)
+  * [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
