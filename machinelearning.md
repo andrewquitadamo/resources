@@ -45,6 +45,7 @@
     * [Neural Nets-A Brief Intro and Intuition](http://josephrocca.com/blog/neural-networks-a-brief-introduction-and-intuition/)
     * [Hello World in Keras](http://blog.fastforwardlabs.com/post/139921712388/hello-world-in-keras-or-scikit-learn-versus)
     * [Neural Network Posts](http://colah.github.io/)
+    * [Neural Network Playground](http://playground.tensorflow.org/)
 
 * Data Science
   * [R and Pandas compared](https://github.com/datacarpentry/datacarpentry/blob/master/cheatsheets/R_pandas_compare.md)
