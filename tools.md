@@ -30,6 +30,7 @@
   * [12 Days of Git](http://vanwilson.info/2016/01/fixing-mistakes-with-git/)
   * [Learn Enough Git to be Dangerous](http://www.learnenough.com/git-tutorial)
   * [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
+  * [Fixing Git Mistakes](http://ohshitgit.com/)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
