@@ -31,6 +31,7 @@
   * [Learn Enough Git to be Dangerous](http://www.learnenough.com/git-tutorial)
   * [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
   * [Fixing Git Mistakes](http://ohshitgit.com/)
+  * [Adding More Changes to A Commit](https://blog.codeminer42.com/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8#.phy2rooeg)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
