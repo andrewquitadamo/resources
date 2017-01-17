@@ -1,5 +1,4 @@
 * Python
-  * [Python for Big Data](http://python2web.com/collections-a-big-list-of-python-based-tools-for-big-data/)
   * [Python Patterns](http://matthiaseisen.com/pp/)
   * [Python Argparse Cookbook](http://mkaz.com/2014/07/26/python-argparse-cookbook/)
   * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
