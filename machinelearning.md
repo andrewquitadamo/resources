@@ -97,6 +97,7 @@
     * [R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
     * [Rbitrary Standards](https://ironholds.org/projects/rbitrary/)
     * [R for Data Science](http://r4ds.had.co.nz/)
+    * [15 Part R Tutorial](http://www.studytrails.com/r/15-page-tutorial-for-r/)
 
 * Julia
     * [Julia By Example](http://www.scolvin.com/juliabyexample/)
