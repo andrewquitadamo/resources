@@ -34,6 +34,7 @@
   * [Adding More Changes to A Commit](https://blog.codeminer42.com/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8#.phy2rooeg)
   * [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
   * [Git Workflow Basics](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.4jicbnmd6)
+  * [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
