@@ -32,6 +32,7 @@
   * [Git Tips and Tricks](https://www.algotech.solutions/blog/engineering/git-tips-tricks/)
   * [Fixing Git Mistakes](http://ohshitgit.com/)
   * [Adding More Changes to A Commit](https://blog.codeminer42.com/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8#.phy2rooeg)
+  * [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
