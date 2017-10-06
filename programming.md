@@ -76,3 +76,4 @@
   * [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
   * [Programming anti-patterns](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
   * [Write Clear Code](http://kbroman.org/Tools4RR/assets/lectures/07_clearcode_withnotes.pdf)
+  * [Learn Regex](https://github.com/zeeshanu/learn-regex)
