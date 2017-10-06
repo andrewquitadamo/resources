@@ -8,6 +8,8 @@
   * Ten Unsorted Vi/Vim Tricks: [Volume 1](http://blog.terminal.com/vi-tips-and-tricks/) [Volume 2](https://blog.terminal.com/ten-unsorted-vi-vim-tricks-volume-2/)
   * [Vim Cheatsheet](http://vim.rtorr.com/)
   * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+  * [Things About Vim I Wish I Knew Earlier](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
+  * [Vim Command Cheatsheet](https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/)
   
 * Git/GitHub
   * [A Practical Introduction to Git](http://mrchlblng.me/2014/09/practical-git-introduction/)
@@ -35,6 +37,7 @@
   * [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
   * [Git Workflow Basics](https://blog.codeminer42.com/git-workflow-basics-d405746f6205#.4jicbnmd6)
   * [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
+  * [Lesser Known Git Commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60)
 
 * LaTex
   * [Not So Short Introduction to LaTex](http://mirror.math.ku.edu/tex-archive/info/lshort/english/lshort.pdf)
